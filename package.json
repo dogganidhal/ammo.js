@@ -1,0 +1,22 @@
+{
+  "name": "ammo.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dogganidhal/ammo.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dogganidhal/ammo.js/issues"
+  },
+  "homepage": "https://github.com/dogganidhal/ammo.js#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
